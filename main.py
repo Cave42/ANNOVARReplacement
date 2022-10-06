@@ -191,3 +191,5 @@ variantFunction.to_csv(variantFunctionName + '.exonic_varriant_function', index 
 
 #print(gff.df.iloc[0,3])
 #print(gff.df.iloc[0,4])
+
+
